@@ -8,8 +8,8 @@ subtitle: 'Software Developer'
 description: ''
 keywords:
 author: Alysson Tibério
-language: pt-br
-timezone: 'UTC-3'
+language: pt-BR
+timezone: 'America/Recife'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
@@ -106,4 +106,4 @@ deploy:
   type: git
   repo: git@github.com:atscosta/tibas.dev.deploy.git
   branch: master
-  message: 'Version Deploy'
+  message: 'site deploy'
